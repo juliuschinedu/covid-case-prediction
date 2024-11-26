@@ -6,8 +6,6 @@
 3. [Data Preprocessing](#data-preprocessing)
 4. [Model Building](#model-building)
 5. [Evaluation and Results](#evaluation-and-results)
-6. [Usage Instructions](#usage-instructions)
-7. [Folder Structure](#folder-structure)
 
 ## Project Overview
 This project leverages Random Forest and ARIMA models to predict COVID-19 cases, providing valuable insights for public health monitoring and forecasting. The process includes exploratory data analysis (EDA), data wrangling, model training, evaluation, and visualization.
