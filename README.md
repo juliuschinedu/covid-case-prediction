@@ -89,6 +89,7 @@ The project employed various machine learning models to predict daily new COVID-
 
 ### 5. Feature Importance
 - The Random Forest model provided insights into feature importance, highlighting which predictors had the greatest impact on daily new cases.
+![Screenshot (105)](https://github.com/user-attachments/assets/63fbd8fb-e0ae-40ae-88a2-b187b2629e01)
 
 ### 6. Time-Series Forecasting with ARIMA
 - ARIMA was used to model sequential trends in the data, focusing on 'NewCases'.
